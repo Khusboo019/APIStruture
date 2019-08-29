@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="GMapsDemo/Base.lproj/LaunchScreen.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.3" build-num="10G8"/>
+    </header>
+    <body>
+      <trans-unit id="8ie-xW-0ye.text">
+        <source>  Copyright (c) 2015 Appcoda. All rights reserved.</source>
+        <target>  Copyright (c) 2015 Appcoda. All rights reserved.</target>
+        <note>Class = "UILabel"; text = "  Copyright (c) 2015 Appcoda. All rights reserved."; ObjectID = "8ie-xW-0ye";</note>
+      </trans-unit>
+      <trans-unit id="kId-c2-rCX.text">
+        <source>GMapsDemo</source>
+        <target>GMapsDemo</target>
+        <note>Class = "UILabel"; text = "GMapsDemo"; ObjectID = "kId-c2-rCX";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="GMapsDemo/Base.lproj/Main.storyboard" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.3" build-num="10G8"/>
+    </header>
+    <body>
+      <trans-unit id="2No-FB-Tx0.normalTitle">
+        <source>ffffff</source>
+        <target>ffffff</target>
+        <note>Class = "UIButton"; normalTitle = "ffffff"; ObjectID = "2No-FB-Tx0";</note>
+      </trans-unit>
+      <trans-unit id="H3q-x5-Qm3.text">
+        <source>Hello</source>
+        <target>Hello</target>
+        <note>Class = "UILabel"; text = "Hello"; ObjectID = "H3q-x5-Qm3";</note>
+      </trans-unit>
+      <trans-unit id="rdT-ii-Z21.normalTitle">
+        <source>Switch Language</source>
+        <target>Switch Language</target>
+        <note>Class = "UIButton"; normalTitle = "Switch Language"; ObjectID = "rdT-ii-Z21";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="GMapsDemo/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.3" build-num="10G8"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>GMapsDemo</source>
+        <target>GMapsDemo</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
